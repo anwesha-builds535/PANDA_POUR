@@ -28,7 +28,7 @@ body {
 
 
 .heading {
-    background-image: url("../public/clouds.gif");
+    background-image: url("clouds.gif");
     
     background-repeat: no-repeat;
 
@@ -89,7 +89,7 @@ body {
 
     margin-top: 40px;
 
-    background-image: url("../public/new.jpg");
+    background-image: url("new.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -148,7 +148,7 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 
-    background-image: url("../public/pin.jpg");
+    background-image: url("pin.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -199,7 +199,7 @@ body {
 
 
 .last-page {
-    background-image: url("../public/water.gif");
+    background-image: url("water.gif");
 
     background-repeat: no-repeat;
     background-size: cover;
